@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
-const token = 'MjgzNjU1ODIwOTU1MDkwOTU0.DB8Rmw.ZUl9iqteeaPOx9tB4RTj8qphwbg'
+const token = 'MjgzNjU1ODIwOTU1MDkwOTU0.DD0XqQ.YaYWll7bEz3ToNdi-tMRBD0OBV8'
 const Webhook = require("webhook-discord")
 const Hook = new Webhook("https://discordapp.com/api/webhooks/323523844386062337/ZVKB5_wd4fj-pvcoTIdcHVqeEjLBqalyo1FQ9z7x0cl8P0TaqsZI7uXwJ5HccV6fS54k")
 const fs = require("fs");
@@ -555,4 +555,4 @@ if (message.content === "prefix") {
 
 
 
-bot.login('MjgzNjU1ODIwOTU1MDkwOTU0.DB8Rmw.ZUl9iqteeaPOx9tB4RTj8qphwbg');
+bot.login('MjgzNjU1ODIwOTU1MDkwOTU0.DD0XqQ.YaYWll7bEz3ToNdi-tMRBD0OBV8');
