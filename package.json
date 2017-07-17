@@ -1,6 +1,8 @@
 {
   "name": "GroupBot",
   "version": "5.0.4",
+  "engines": {
+    "node": "8.1.4",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
